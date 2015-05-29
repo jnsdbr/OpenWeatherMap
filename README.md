@@ -1,5 +1,5 @@
 # OpenWeatherMap
-Processing weather library based on the OpenWeatherMap API
+Processing weather library based on the [OpenWeatherMap API](http://openweathermap.org/api)
 
 
 ## Basic Usage
